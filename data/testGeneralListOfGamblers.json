@@ -1,0 +1,16 @@
+{"gambler": [
+    {
+        "wins": 1,
+        "balance": 500,
+        "draws": 1,
+        "gamblerID": 4,
+        "losses": 1
+    },
+    {
+        "wins": 0,
+        "balance": 1000,
+        "draws": 0,
+        "gamblerID": 5,
+        "losses": 3
+    }
+]}
